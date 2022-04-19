@@ -1,0 +1,2 @@
+# Humans-vs-Mosquitoes
+A game about the relationship between humans, mosquitoes, vector-borne diseases and the environment. Originally designed in 2011, the game has been used by facilitators in at least 4 continents as a fun and engaging way to teach audiences about vector-borne diseases. The game has been modified and adapted to work in various geographic regions as well as with different audiences. Humans vs. Mosquitoes can be played as an active physical play-based game, a thoughtful card game, and even with nothing but a set of instructions and a set of gestures.
